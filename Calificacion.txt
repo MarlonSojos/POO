@@ -1,0 +1,13 @@
+Detalle Calificacion   22.5 + (2 GIT)/35
+Permita Crear y Cancelar Vuelos en Aeropuertos. (10 Puntos): 5 Puntos. Agrega pasajero en Aeropuerto y no vuelo.
+Tenga al menos 2 Aeropuertos, con 3 vuelos mínimo cada uno. (10 Puntos): 7 Puntos. NO agrega vuelos sino pasajeros.
+Liste los vuelos por cada aeropuerto por consola de una manera estéticamente agradable (5 Puntos): 3.5 Lista pasajeros y no vuelos.
+Calidad de código (comentarios, código que ejecute, ausencia de errores, código identado, buenos nombres de metodos y atributos, camelCase, abstracción y encapsulación correctas, impresión por consola estética y ordenada,  Métodos con responsabilidad Unica) (10 Puntos): 7 Puntos. Sin comentarios. Errores Logicos.
+
+Bonus: Crear una función que permita Verificar si un Pasajero dado esta registrado en un vuelo de cualquier aeropuerto (20 Puntos extra)
+
+Comentarios Profesor:
+No tiene Atributo aerolinea en Vuelo
+Registra pasajero en aeropuerto no en vuelo.
+No cumple especificacion, pero funcional.
+Lista de Pasajeros de vuelo nunca se usa.
